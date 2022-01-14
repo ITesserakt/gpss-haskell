@@ -1,0 +1,6 @@
+.stack-work/
+*~
+.idea/
+gpss-haskell.iml
+*.lock
+out/
